@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 la mancha de cuyo nombre no quiero ...
 de 
+=======
+En un lugar de
+la mancha de cuyo
+nombre no quiero acordarme
+de
+la
+mancha
+>>>>>>> e998bfae70c3ed93312d2eead6eb41f900cd745c
